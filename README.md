@@ -17,14 +17,13 @@
 
 Application Functionality:
 
-<img src="./assets/Capture.PNG">
-<img src="./assets/Capture1.PNG">
-<img src="./assets/Capture3.PNG">
-<img src="./assets/Capture4.PNG">
+<img src="./assets/General.png">
+<img src="./assets/Manifest.png">
+<img src="./assets/Service Worker.png">
 
 ## Github Repository
 
-https://github.com/fkobe3/Neverland-Notes &&
+https://github.com/fkobe3/Neverland-Notes And 
 
 https://fkobe3.github.io/Neverland-Notes/
 ## Heroku Deployment
