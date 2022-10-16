@@ -1,3 +1,5 @@
+// Imports and defines ExpressJS and port
+
 const express = require('express');
 
 const app = express();

@@ -2,6 +2,7 @@
 import { getDb, putDb } from './database';
 import { header } from './header';
 
+// Unifying function to recall saved text with the header, and to save updated text.
 export default class {
   constructor() {
     const localData = localStorage.getItem('content');
